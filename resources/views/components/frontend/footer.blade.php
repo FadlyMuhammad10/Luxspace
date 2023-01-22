@@ -1,12 +1,12 @@
 <!-- START: ASIDE MENU -->
     <section class="">
       <div class="border-t border-b border-gray-200 py-12 mt-16 px-4">
-        <div class="flex justify-center mb-8">
+        <!--<div class="flex justify-center mb-8 w-56" >
           <img
-            src="{{ url('/frontend/images/content/logo.png') }}"
-            alt="Luxspace | Fulfill your house with beautiful furniture"
-          />
-        </div>
+            src="{{ url('/frontend/images/content/logo.jpg') }}"
+            alt="Rama fish"
+          /> 
+        </div>-->
         <aside class="container mx-auto">
           <div class="flex flex-wrap -mx-4 justify-center">
             <div class="px-4 w-full md:w-2/12 mb-4 md:mb-0 accordion">
@@ -94,7 +94,8 @@
     <!-- START: FOOTER -->
     <footer class="flex text-center px-4 py-8 justify-center">
       <p class="text-sm">
-        Copyright 2021 • All Rights Reserved LuxSpace by BuildWith Angga
+        Copyright 2022 •
       </p>
+      
     </footer>
     <!-- END: FOOTER -->
